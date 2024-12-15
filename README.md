@@ -25,3 +25,6 @@ data is the fossil fuel of AI.——IIya 2024/12/14 neurips\
 # 社区已有工具链
 - [x] [图像下载器](https://github.com/all-dataa/images_download) 百度图片爬虫
 - [x] [github项目分析器](https://github.com/all-dataa/github-project-info) 输入github项目链接，自动智能可信输出篇文章 
+
+# 信息源
+- [x] 微信公众号【与龙邂逅】，鄙人致力于有趣的AI+X，各种原创知识 
