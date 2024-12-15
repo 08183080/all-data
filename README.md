@@ -21,3 +21,7 @@ data is the fossil fuel of AI.——IIya 2024/12/14 neurips\
 
 # 灵感来源
 2024/12/14，昨晚neurips大会，IIya提到数据合成将是未来超级智能的关键之一，数据在枯竭。因此我想做这个包括从AI/现实/互联网的数据提取/合成的开源项目和社群。大家可以贡献感兴趣的有价值的数据，也可以分享构造自己去中心化数据库的实践，也可以一起打造有趣的信息工具，一起做做数据合成的实践。我觉得，有趣的挖掘/收集/合成数据信息的思路本身以及工具本身就是一种无价的数据，我志不在于很空虚的中心化的数据乌托邦，更想当点燃者。
+
+# 社区已有工具链
+- [x] [图像下载器](https://github.com/all-dataa/images_download) 百度图片爬虫
+- [x] [github项目分析器](https://github.com/all-dataa/github-project-info) 输入github项目链接，自动智能可信输出篇文章 
